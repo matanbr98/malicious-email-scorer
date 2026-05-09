@@ -1,0 +1,8 @@
+backend/node_modules/
+npm-debug.log*
+# Env secrets
+backend/.env
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
